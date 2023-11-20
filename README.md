@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://aneesmhmd.io)
 
-<h1 align="center">Hi 👋! I'm Muhammed Anees K</h1>
+<h2 align="center">Hi 👋! I'm Muhammed Anees K</h2>
 
 ###
 
@@ -13,9 +13,9 @@
 - 💻 **Django | React Fullstack Developer**
 
 ###
-<h3 align="left">Languages and tools used:</h3>
+<h1 align="left">Languages and tools used:</h1>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="0" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
@@ -60,22 +60,25 @@
 </div>
 
 ###
-<h3 align="left">Connect me on:</h3>
-<div align="left">
+<h1 align="left">Connect me on:</h1>
+<div align="center">
   <a href="https://www.linkedin.com/in/muhammed-anees-k/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/21319071/muhammed-anees-k" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
   </a>
   <a href="mailto:aneesanz221@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
    <a href="https://leetcode.com/aneezmhmd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FFD219&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FFD219&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="leetcode logo"  />
+  </a>
+   <a href="https://twitter.com/aneez_mhmd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
    <a href="https://www.instagram.com/_an_eez_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
 
